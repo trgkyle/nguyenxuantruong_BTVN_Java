@@ -20,7 +20,7 @@ public class bai1 {
         for(int i = 0 ; i < n ; i++){
             a[i] = sc.nextInt();
         }
-        int firstmax=a[0],secondmax=a[1],thirdmax=a[2];
+        int firstmax=a[0],secondmax=a[0],thirdmax=a[0];
         //System.out.println(firstmax + " : " + secondmax + " : " + thirdmax);
         for(int i = 0 ; i < n ; i++){
             if(firstmax < a[i]){
