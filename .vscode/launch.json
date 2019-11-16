@@ -1,0 +1,81 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "bai3.Main",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "bai2.Main",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "bai1.Main",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunMain",
+            "request": "launch",
+            "mainClass": "Main.RunMain",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunMain",
+            "request": "launch",
+            "mainClass": "RunMain",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "buoi7.src.bai3.Main",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "buoi7.src.bai1.Main",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "buoi7.truong.src.main.java.truong.App",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bai2",
+            "request": "launch",
+            "mainClass": "buoi3.bai2",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bai1",
+            "request": "launch",
+            "mainClass": "buoi3.bai1",
+            "projectName": "nguyenxuantruong_BTVN_Java_c6986090"
+        }
+    ]
+}
